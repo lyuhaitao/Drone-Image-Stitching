@@ -36,5 +36,5 @@ Our Test Bench
 Note 
 1. The software is not compatible with Python 2.
 2. All the images must have EXIF data and XMP data with them. (Mostly drone captured images already have these as metadata.)
-3. If the software fails to import OpenCV, then please run the project over a virtual environment. Please follow up this link to setup virtualenv.
+
 
